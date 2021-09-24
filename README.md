@@ -26,4 +26,4 @@ Special thanks to RCF, Steve, Chron, Wile for answering the endless stupid quest
 
 ## Licence
 
-All LudicrousLabs projects are licenced GPL3.
+All Ludicrous Labs projects are licenced GPL3.
