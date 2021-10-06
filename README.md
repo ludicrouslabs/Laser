@@ -1,4 +1,4 @@
-![alt text](https://i.imgur.com/MMgIAR0.png)
+![alt text](https://i.imgur.com/0YiEWfN.png)
 
 ![design_status](https://img.shields.io/badge/status-in_design-blue?style=for-the-badge)
 ![license](https://img.shields.io/github/license/ludicrouslabs/Laser?style=for-the-badge)
@@ -11,6 +11,8 @@ This all came about due to a need to cut bulk acrylic for some friends and getti
 With the accessibility of 3D printing and the ability to buy off the shelf components to make almost any machine you can think of, we figured a high-speed engraving laser couldn’t be that hard…. Or could it? Our goal is to make a safe, aesthetically pleasing laser platform that will enable makers to start with mostly 3d printed parts, while giving those who want a more professional system to upgrade to higher quality components. 
 
 Lets see how close this gets.
+
+![alt text](https://i.imgur.com/Li3yNpK.png)
 
 
 ## Design Status
