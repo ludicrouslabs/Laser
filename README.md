@@ -12,7 +12,7 @@ With the accessibility of 3D printing and the ability to buy off the shelf compo
 
 Lets see how close this gets.
 
-![alt text](https://i.imgur.com/Li3yNpK.png)
+![alt text](https://i.imgur.com/BNA8M9x.png)
 
 
 ## Design Status
