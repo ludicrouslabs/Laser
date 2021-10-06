@@ -13,6 +13,21 @@ With the accessibility of 3D printing and the ability to buy off the shelf compo
 Lets see how close this gets.
 
 
+## Design Status
+
+| Assembly                       | Progress        | Status | Comments                       | 
+|--------------------------------|:---------------:|--------|--------------------------------| 
+| Frame      | ![design_status](https://img.shields.io/badge/Progress-100%25-green) | Beta   | Build at own risk              |
+| Panels     | ![design_status](https://img.shields.io/badge/Progress-100%25-green) | Beta | Build at own risk |
+| X Drive    | ![design_status](https://img.shields.io/badge/Progress-80%25-orange) | Design | Do not build / Errors expected |
+| Y Drive    | ![design_status](https://img.shields.io/badge/Progress-70%25-orange) | Design | Do not build / Errors expected |
+| Z Drive    | ![design_status](https://img.shields.io/badge/Progress-80%25-orange) | Design | Do not build / Errors expected |
+| Z Table    | ![design_status](https://img.shields.io/badge/Progress-20%25-orange) | Design | Do not build / Errors expected |
+| Laser Head | ![design_status](https://img.shields.io/badge/Progress-70%25-orange) | Design | Do not build / Errors expected |
+| Electrical | ![design_status](https://img.shields.io/badge/Progress-0%25-red)     | Design | Do not build / Errors expected |
+| Branding   | ![design_status](https://img.shields.io/badge/Progress-100%25-green) | Complete | Sticker design complete |
+
+
 ## Documentation
 
 Documentation will become available when the initial design is tested and shown to work as expected.
@@ -22,7 +37,7 @@ Documentation will become available when the initial design is tested and shown 
 
 ## Shout Outs
 
-Special thanks to RCF, Steve, Chron, Wile for answering the endless stupid questions.
+Special thanks to RCF, Steve, Chron, Wile and everyone else for answering the endless stupid questions.
 
 ## Licence
 
