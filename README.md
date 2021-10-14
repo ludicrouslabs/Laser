@@ -19,10 +19,10 @@ Lets see how close this gets.
 
 | Assembly                       | Progress        | Status | Comments                       | 
 |--------------------------------|:---------------:|--------|--------------------------------| 
-| Frame      | ![design_status](https://img.shields.io/badge/Progress-100%25-green) | Beta   | Build at own risk              |
+| Frame      | ![design_status](https://img.shields.io/badge/Progress-100%25-green) | Beta   | Build at own risk |
 | Panels     | ![design_status](https://img.shields.io/badge/Progress-100%25-green) | Beta | Build at own risk |
-| X Drive    | ![design_status](https://img.shields.io/badge/Progress-80%25-orange) | Design | Do not build / Errors expected |
-| Y Drive    | ![design_status](https://img.shields.io/badge/Progress-70%25-orange) | Design | Do not build / Errors expected |
+| X Drive    | ![design_status](https://img.shields.io/badge/Progress-90%25-orange) | Design | Do not build / Errors expected |
+| Y Drive    | ![design_status](https://img.shields.io/badge/Progress-100%25-green) | Beta | Build at own risk |
 | Z Drive    | ![design_status](https://img.shields.io/badge/Progress-80%25-orange) | Design | Do not build / Errors expected |
 | Z Table    | ![design_status](https://img.shields.io/badge/Progress-20%25-orange) | Design | Do not build / Errors expected |
 | Laser Head | ![design_status](https://img.shields.io/badge/Progress-70%25-orange) | Design | Do not build / Errors expected |
